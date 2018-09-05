@@ -16,7 +16,7 @@ public class Main extends Application {
 
         primaryStage.setTitle("Hello World");
         Button btn = new Button();
-        btn.setText("Say 'Hello World!!'");
+        btn.setText("Say 'Hello World!! Testing'");
         btn.setOnAction(new EventHandler<ActionEvent>(){
             @Override
             public void handle(ActionEvent e){
